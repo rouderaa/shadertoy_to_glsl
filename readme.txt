@@ -1,0 +1,2 @@
+The python program shadertoys_to_gls converts basic shaders of the shadertoy.com website to a format that can be used locally as glsl shader.
+The tool showshader.py can be used to run the shader locally.
